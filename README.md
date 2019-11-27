@@ -36,5 +36,5 @@ ft_ls allow the option:
 `-u`	sort by update time
 `-1`	in line without detail
 
-#Command output
+# Command output
 ![Screenshot](ressources/img/ft_ls_example.png)
